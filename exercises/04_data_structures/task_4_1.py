@@ -16,5 +16,6 @@
 """
 
 nat = "ip nat inside source list ACL interface GigabitEthernet0/1 overload"
+
 print(nat)
 
